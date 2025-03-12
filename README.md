@@ -6,7 +6,7 @@ Este proyecto es una aplicación que se conecta a la API de [WeatherAPI](https:/
 
 Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes paquetes:
 
-- Python 3.x
+- Python 3.10 o superior
 - `twilio`
 - `requests`
 - `pandas`
